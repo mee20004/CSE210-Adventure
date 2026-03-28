@@ -1,0 +1,14 @@
+/Users/kameronmeeker/Desktop/TextAdventure/bin/Debug/net10.0/TextAdventure
+/Users/kameronmeeker/Desktop/TextAdventure/bin/Debug/net10.0/TextAdventure.deps.json
+/Users/kameronmeeker/Desktop/TextAdventure/bin/Debug/net10.0/TextAdventure.runtimeconfig.json
+/Users/kameronmeeker/Desktop/TextAdventure/bin/Debug/net10.0/TextAdventure.dll
+/Users/kameronmeeker/Desktop/TextAdventure/bin/Debug/net10.0/TextAdventure.pdb
+/Users/kameronmeeker/Desktop/TextAdventure/obj/Debug/net10.0/TextAdventure.GeneratedMSBuildEditorConfig.editorconfig
+/Users/kameronmeeker/Desktop/TextAdventure/obj/Debug/net10.0/TextAdventure.AssemblyInfoInputs.cache
+/Users/kameronmeeker/Desktop/TextAdventure/obj/Debug/net10.0/TextAdventure.AssemblyInfo.cs
+/Users/kameronmeeker/Desktop/TextAdventure/obj/Debug/net10.0/TextAdventure.csproj.CoreCompileInputs.cache
+/Users/kameronmeeker/Desktop/TextAdventure/obj/Debug/net10.0/TextAdventure.dll
+/Users/kameronmeeker/Desktop/TextAdventure/obj/Debug/net10.0/refint/TextAdventure.dll
+/Users/kameronmeeker/Desktop/TextAdventure/obj/Debug/net10.0/TextAdventure.pdb
+/Users/kameronmeeker/Desktop/TextAdventure/obj/Debug/net10.0/TextAdventure.genruntimeconfig.cache
+/Users/kameronmeeker/Desktop/TextAdventure/obj/Debug/net10.0/ref/TextAdventure.dll
