@@ -12,3 +12,4 @@
 /Users/kameronmeeker/Desktop/TextAdventure/obj/Debug/net10.0/TextAdventure.pdb
 /Users/kameronmeeker/Desktop/TextAdventure/obj/Debug/net10.0/TextAdventure.genruntimeconfig.cache
 /Users/kameronmeeker/Desktop/TextAdventure/obj/Debug/net10.0/ref/TextAdventure.dll
+/Users/kameronmeeker/Desktop/TextAdventure/obj/Debug/net10.0/TextAdventure.sourcelink.json

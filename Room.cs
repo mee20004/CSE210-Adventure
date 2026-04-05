@@ -7,6 +7,13 @@ public class Room
     private int _x;
     private int _y;
     private bool _visited;
+    private List<Item> _items;
+    private List<Enemy> _enemies;
+
+// Puzzle: code lock
+    private string? _lockCode;
+    private bool _isLocked;
+    private bool _isSolved;
 
     public Room(string name, int x, int y)
     {
@@ -15,6 +22,52 @@ public class Room
         _x = x;
         _y = y;
         _visited = false;
+        _items = new List<Item>();
+        _enemies = new List<Enemy>();
+        _lockCode = null;
+        _isLocked = false;
+        _isSolved = false;
+    }
+
+    public void AddEnemy(Enemy enemy)
+    {
+        _enemies.Add(enemy);
+    }
+
+    public void SetLockCode(string code)
+    {
+        _lockCode = code;
+        _isLocked = true;
+        _isSolved = false;
+    }
+
+    public bool HasLock() => _isLocked;
+    public bool IsLockSolved() => _isSolved;
+    public string? GetLockCode() => _lockCode;
+    public void SolveLock() { _isSolved = true; _isLocked = false; }
+
+    public void RemoveEnemy(Enemy enemy)
+    {
+        _enemies.Remove(enemy);
+    }
+
+    public List<Enemy> GetEnemies()
+    {
+        return _enemies;
+    }
+    public void AddItem(Item item)
+    {
+        _items.Add(item);
+    }
+
+    public void RemoveItem(Item item)
+    {
+        _items.Remove(item);
+    }
+
+    public List<Item> GetItems()
+    {
+        return _items;
     }
 
     public string GetName() => _name;
